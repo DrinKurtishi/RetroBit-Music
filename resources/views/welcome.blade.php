@@ -126,5 +126,6 @@
     <footer class="border-t border-purple-800 mt-24 py-8 text-center text-purple-300">
         <p>© {{ date('Y') }} RetroBit. All rights reserved.</p>
     </footer>
+    
 </body>
 </html>
